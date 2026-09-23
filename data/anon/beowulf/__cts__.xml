@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+         groupUrn="urn:cts:angLit:anon"
+         projid="angLit:beowulf"
+         urn="urn:cts:angLit:anon.beowulf"
+         xml:lang="ang">
+  <ti:title xml:lang="ang">Beowulf</ti:title>
+  <ti:title xml:lang="eng">Beowulf</ti:title>
+  <ti:edition urn="urn:cts:angLit:anon.beowulf.perseus-ang1"
+              workUrn="urn:cts:angLit:anon.beowulf" xml:lang="ang">
+    <ti:label xml:lang="eng">Old English (Fr. Klaeber, 1922)</ti:label>
+    <ti:description xml:lang="eng">Beowulf, edited by Fr. Klaeber, Boston: D. C. Heath, 1922.</ti:description>
+  </ti:edition>
+  <ti:translation urn="urn:cts:angLit:anon.beowulf.perseus-eng1"
+                  workUrn="urn:cts:angLit:anon.beowulf" xml:lang="eng">
+    <ti:label xml:lang="eng">English (James M. Garnett, 1912)</ti:label>
+    <ti:description xml:lang="eng">Beowulf, translated by James M. Garnett, Boston: Ginn &amp; Company, 1912.</ti:description>
+  </ti:translation>
+  <ti:translation urn="urn:cts:angLit:anon.beowulf.brunetti-deepseek2026-eng1"
+                  workUrn="urn:cts:angLit:anon.beowulf" xml:lang="eng">
+    <ti:label xml:lang="eng">English (DeepSeek, 2026) using Brunetti analysis (AI draft)</ti:label>
+    <ti:description xml:lang="eng">Sentence-by-sentence draft translated from Klaeber's text, with Giuseppe Brunetti's linguistic analysis supplying the fixed base annotation.</ti:description>
+  </ti:translation>
+  <ti:commentary urn="urn:cts:angLit:anon.beowulf.perseus-com-eng1"
+                 workUrn="urn:cts:angLit:anon.beowulf" xml:lang="eng">
+    <ti:label xml:lang="eng">Commentary (Fr. Klaeber, 1922)</ti:label>
+    <ti:description xml:lang="eng">Klaeber's line commentary on Beowulf.</ti:description>
+    <ti:about urn="urn:cts:angLit:anon.beowulf"/>
+  </ti:commentary>
+</ti:work>

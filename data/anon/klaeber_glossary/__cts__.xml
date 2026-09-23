@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+         groupUrn="urn:cts:angLit:anon"
+         projid="angLit:klaeber_glossary"
+         urn="urn:cts:angLit:anon.klaeber_glossary"
+         xml:lang="ang">
+  <ti:title xml:lang="eng">Klaeber's Beowulf Glossary</ti:title>
+  <ti:edition urn="urn:cts:angLit:anon.klaeber_glossary.perseus-mul1"
+              workUrn="urn:cts:angLit:anon.klaeber_glossary" xml:lang="eng">
+    <ti:label xml:lang="eng">Old English–English glossary (Fr. Klaeber, 1922)</ti:label>
+    <ti:description xml:lang="eng">The glossary to Klaeber's 1922 edition of Beowulf; 3,784 entries.</ti:description>
+  </ti:edition>
+</ti:work>

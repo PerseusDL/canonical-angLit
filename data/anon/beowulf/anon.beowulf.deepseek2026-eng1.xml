@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beowulf: sentence-by-sentence English translation</title>
+        <author>Beowulf Poet</author>
+        <respStmt>
+          <resp>Draft translation and linguistic annotation</resp>
+          <name>DeepSeek (deepseek-chat)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>AI-generated OCR draft for review in the Perseus environment.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Translated from Klaeber's 1922 Old English edition.</p>
+      </sourceDesc>
+      <notesStmt>
+        <note type="coverage">291 of 742 inferred sentences translated.</note>
+      </notesStmt>
+    </fileDesc>
+    <encodingDesc>
+      <refsDecl xml:id="CTS">
+        <citeStructure match="/TEI/text/body" use="@xml:base" n="chunk" delim=":">
+          <citeStructure unit="card" match="div/div[@subtype='card']" use="@n" delim=".">
+            <citeStructure unit="sentence" match="p/s" use="@n" />
+          </citeStructure>
+        </citeStructure>
+      </refsDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2026-09-22">Generated from validated per-sentence DeepSeek checkpoints.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="eng">
+    <body xml:base="urn:cts:angLit:anon.beowulf.deepseek2026-eng1">
+      <div type="translation">
+        <div type="textpart" subtype="card" n="1">
+          <p>
+            <s n="1" xml:id="beowulf.00001" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.1-1.3">Listen! We have heard of the glory of the Spear-Danes' kings in days of old, how those princes performed deeds of courage!</s>
+            <s n="2" xml:id="beowulf.00002" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.4-1.11">Often Scyld Scefing took away the mead-benches from troops of enemies, from many peoples; he terrified the earls, after he was first found destitute. He experienced comfort for that, grew under the clouds, prospered in honors, until each of the neighboring peoples over the whale-road had to obey him and pay tribute. That was a good king!</s>
+            <s n="3" xml:id="beowulf.00003" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.12-1.19">To him a son was afterwards born, young in the courts, whom God sent to the people as a comfort; He perceived their dire need, which they had endured before, lordless, for a long while; for them the Lord of Life, the Ruler of glory, granted worldly honor; Beowulf was renowned -- his fame sprang widely -- the son of Scyld, in the Scylding lands.</s>
+            <s n="4" xml:id="beowulf.00004" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.20-1.25">So a young man ought to earn good things with splendid treasure-gifts in his father's bosom, so that in old age loyal companions may remain with him afterward, when war comes, and the people may serve him; by praiseworthy deeds a man must prosper in every nation.</s>
+            <s n="5" xml:id="beowulf.00005" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.26-1.31">Then Scyld departed at the appointed time, the very strong one, to go into the Lord's keeping; his dear companions then carried him to the sea's shore, as he himself had asked, while the friend of the Scyldings ruled with words -- the beloved land-prince had long held power.</s>
+            <s n="6" xml:id="beowulf.00006" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.32-1.36">There at the harbor stood a ring-prowed ship, icy and eager to set out, a prince's vessel; then they laid down the beloved lord, the ring-giver, in the ship's bosom, the famous one by the mast.</s>
+            <s n="7" xml:id="beowulf.00007" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.36-1.42">There was a great many treasures, ornaments brought from far-off ways; I have not heard of a ship more splendidly equipped with battle-weapons and war-garments, with swords and byrnies; on his bosom lay a multitude of treasures, which with him were to depart far away into the possession of the flood.</s>
+            <s n="8" xml:id="beowulf.00008" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.43-1.46">Not at all did they blame him with lesser gifts, the people's treasures, than those did who sent him forth at the beginning, alone over the waves, when he was a child.</s>
+            <s n="9" xml:id="beowulf.00009" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.47-1.50">Then still they set up for him a golden banner, high over his head; they let the sea bear him, gave him to the ocean; their spirit was sad, their mood mourning.</s>
+            <s n="10" xml:id="beowulf.00010" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1.50-1.52">Men cannot say in truth, counselors in the hall, heroes under the heavens, who received that cargo.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="53">
+          <p>
+            <s n="11" xml:id="beowulf.00011" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.53-53.58">Then Beowulf of the Scyldings, the beloved king of the people, was renowned among the peoples in the strongholds for a long time -- his father departed elsewhere, the elder from the earth --, until Healfdene the high was born again to him; while he lived he ruled, old and battle-fierce, the glad Scyldings.</s>
+            <s n="12" xml:id="beowulf.00012" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.59-53.62">To him four children were born in succession into the world, a ruler of hosts: Heorogar and Hrothgar and good Halga; I heard that [she was Onela's queen, the dear bed-companion of the Heatho-Scylfings].</s>
+            <s n="13" xml:id="beowulf.00013" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.62-53.63">was Onela's queen, the dear bed-companion of the Heatho-Scylfings.</s>
+            <s n="14" xml:id="beowulf.00014" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.64-53.67">Then to Hrothgar was given success in war, glory in battle, so that his kinsmen eagerly obeyed him, until the young band grew, a great troop of retainers.</s>
+            <s n="15" xml:id="beowulf.00015" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.67-53.69">It came into his mind that he would command men to build a great mead-hall, a hall-building, a great mead-building.</s>
+            <s n="16" xml:id="beowulf.00016" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.70-53.73">Then the children of men learned forever after, and there within to distribute all things to young and old, such as God gave him, except for the common land and the lives of men.</s>
+            <s n="17" xml:id="beowulf.00017" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.74-53.76">Then I heard widely that work was commanded for many a people throughout this middle-earth, that folk-steads were adorned.</s>
+            <s n="18" xml:id="beowulf.00018" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.76-53.79">In time it came about for him, soon among men, that it was all ready, the greatest of hall-buildings; he who had wide power over his word shaped for him the name Heort.</s>
+            <s n="19" xml:id="beowulf.00019" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.80-53.81">He did not break his vow; he dealt out rings, treasure at the feast.</s>
+            <s n="20" xml:id="beowulf.00020" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.81-53.85">The hall towered high and wide-gabled; it awaited the surges of battle, the hostile flames. Nor was it yet long before the sword-hatred between son-in-law and father-in-law, after deadly hostility, was destined to awaken.</s>
+            <s n="21" xml:id="beowulf.00021" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.86-53.90">Then the powerful spirit endured the time of hardship, he who waited in darkness, that every day he heard loud joy in the hall; there was the sound of the harp, the clear song of the poet.</s>
+            <s n="22" xml:id="beowulf.00022" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.90-53.98">He who could recount from afar the first creation of men spoke, and said that the Almighty made the earth, the beautifully bright plain, which water surrounds, and the victorious one set the sun and the moon as lights to light the land-dwellers, and adorned the surfaces of the earth with branches and leaves; life also he created for each of the kinds that move about alive.</s>
+            <s n="24" xml:id="beowulf.00024" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:53.111-53.114">From there all monstrous races sprang forth: giants and elves and evil spirits, likewise giants, those who strove against God for a long time; he repaid them their reward for that.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="115">
+          <p>
+            <s n="25" xml:id="beowulf.00025" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.115-115.117">He departed then to seek, after night came, the high house, how the Hring-Danes had occupied it after the beer-drinking.</s>
+            <s n="26" xml:id="beowulf.00026" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.118-115.120">Then he found there inside a company of noblemen sleeping after the feast; they did not know sorrow, the misery of men.</s>
+            <s n="27" xml:id="beowulf.00027" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.120-115.125">A creature of unholy evil, grim and greedy, was ready at once, savage and fierce, and in the hall he seized thirty thanes in their rest; from there he departed exulting in his slaughter, to go home, to seek his dwelling with that slaughter-fill.</s>
+            <s n="28" xml:id="beowulf.00028" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.126-115.129">Then at dawn, in the early morning, Grendel's war-craft was revealed to men; then after the feast a cry was raised up, a great morning-sound.</s>
+            <s n="30" xml:id="beowulf.00030" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.134-115.137">It was no longer a respite, but after one night he again performed a greater deadly evil, and he did not mourn for it at all — feud and crime; he was too fixed in that.</s>
+            <s n="31" xml:id="beowulf.00031" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.138-115.143">Then it was easy to find for him who sought rest elsewhere in some more spacious place, a bed among the chambers, when it was made known to him, truly told by a clear sign, the hatred of the hall-thane; afterwards he held himself farther off and more firmly, he who escaped that foe.</s>
+            <s n="32" xml:id="beowulf.00032" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.144-115.146">So he ruled and contended against right, one against all, until the best of houses stood idle.</s>
+            <s n="34" xml:id="beowulf.00034" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.164-115.169">So the enemy of mankind, the terrible lone-goer, often committed many crimes, harsh humiliations; he inhabited Heorot, the treasure-adorned hall, in the dark nights; he was not allowed to approach that gift-throne, the treasure, because of the Lord, nor did he know his (God's) favor.</s>
+            <s n="35" xml:id="beowulf.00035" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.169-115.171">That was a great vengeance, a grief of mind, for the friend of the Scyldings.</s>
+            <s n="36" xml:id="beowulf.00036" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.171-115.174">Many a one often sat in council, the mighty at counsel; they deliberated advice, what would be best for the stout-hearted against sudden terrors, to bring about.</s>
+            <s n="37" xml:id="beowulf.00037" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.175-115.178">At times they vowed sacrifices at pagan temples, prayed with words that the soul-slayer would provide them help against the afflictions of the people.</s>
+            <s n="38" xml:id="beowulf.00038" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.178-115.183">Such was their custom, the hope of heathens; they remembered hell in their hearts, they did not know the Creator, the Judge of deeds; they did not know the Lord God, nor indeed did they know how to praise the Helm of the heavens, the Ruler of glory.</s>
+            <s n="39" xml:id="beowulf.00039" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.183-115.186">Woe is it for him who must thrust his soul through cruel malice into the embrace of fire, who cannot hope for comfort, nor change anything at all!</s>
+            <s n="40" xml:id="beowulf.00040" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:115.186-115.188">It is well for him who is allowed, after his death-day, to seek the Lord and to ask for protection in the Father's embrace!</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="189">
+          <p>
+            <s n="43" xml:id="beowulf.00043" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.198-189.201">He commanded a good sea-vessel to be prepared for him; he said that he, a war-king, intended to seek over the swan-road a famous prince, when he had need of men.</s>
+            <s n="44" xml:id="beowulf.00044" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.202-189.204">Wise men little blamed him for that journey, though he was dear to them; they urged the brave-hearted one, they looked for good fortune.</s>
+            <s n="45" xml:id="beowulf.00045" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.205-189.209">The good one had chosen champions from the people of the Geats, those whom he could find most keen; one of fifteen sought the sea-wood, a warrior showed the way, a sea-skilled man [knew] the land-boundaries.</s>
+            <s n="46" xml:id="beowulf.00046" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.210-189.211">Time passed onward; the ship was on the waves, the boat under the cliff.</s>
+            <s n="47" xml:id="beowulf.00047" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.211-189.216">The warriors, ready, climbed onto the prow; the currents surged, the sea against the sand; men carried bright treasures, splendid war-gear, onto the bosom of the ship; the men shoved out, warriors on a wished-for journey, the bound wood.</s>
+            <s n="48" xml:id="beowulf.00048" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.217-189.224">Then the foamy-necked ship, driven by the wind, departed over the wave-sea, most like a bird, until after a time, on the next day, the curved-prowed vessel had advanced so that the voyagers saw land, the sea-cliffs shining, steep hills, broad sea-headlands; then the sea was traversed, the journey at its end.</s>
+            <s n="49" xml:id="beowulf.00049" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.224-189.228">From there the people of the Wederas quickly climbed up onto the plain, moored the sea-wood, shook their mail-coats and war-garments; they thanked God that the wave-paths had become easy for them.</s>
+            <s n="50" xml:id="beowulf.00050" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.229-189.233">Then from the wall the guardian of the Scyldings, he who was to hold the sea-cliffs, saw bright shields, battle-gear ready for war, being carried over the gangway; curiosity, thought in his mind, broke him — what these men were.</s>
+            <s n="51" xml:id="beowulf.00051" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.234-189.240">Then the thane of Hrothgar departed to ride his horse to the shore; he shook his mighty wooden shield with his hands, and asked with formal words: 'What are you, bearers of armor, clad in mail, who have come thus leading a tall keel over the sea-road, hither over the waves?'</s>
+            <s n="52" xml:id="beowulf.00052" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.240-189.243">Indeed, I was for a time a border-watcher, held the sea-guard, so that on the land of the Danes no enemy with a ship-army could harm you.</s>
+            <s n="53" xml:id="beowulf.00053" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.244-189.247">Not here did shield-bearers undertake to come more openly, nor did you readily know the leave-word of warriors, the consent of kinsmen.</s>
+            <s n="54" xml:id="beowulf.00054" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.247-189.251">Never have I seen a greater one of earls across the earth than is one of you, a man in armor; that is no hall-retainer, adorned with weapons, unless his appearance, his unique countenance, deceives him.</s>
+            <s n="55" xml:id="beowulf.00055" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.251-189.254">Now I must learn your lineage, before you, as false-seers, travel further from here into the land of the Danes.</s>
+            <s n="56" xml:id="beowulf.00056" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:189.254-189.257">Now you far-dwellers, sea-travelers, hear my simple thought: haste is best in making known whence your coming is.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="258">
+          <p>
+            <s n="57" xml:id="beowulf.00057" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.258-258.261">The eldest one, the leader of the troop, answered him and unlocked his word-hoard: 'We are of the race of the Geats, people of Hygelac and his hearth-companions.'</s>
+            <s n="58" xml:id="beowulf.00058" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.262-258.266">My father was made known to the peoples, a noble first-leader, called Ecgtheow; he lived through a great many winters before he departed on his way, aged, from the courts; every wise man far and wide throughout the earth readily remembers him.</s>
+            <s n="59" xml:id="beowulf.00059" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.267-258.269">We, with loyal heart, have come to seek your lord, the son of Healfdene, protector of the people; be good to us with counsel!</s>
+            <s n="60" xml:id="beowulf.00060" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.270-258.272">We have a great errand to the famous lord of the Danes; there shall be nothing secret there, as I expect.</s>
+            <s n="64" xml:id="beowulf.00064" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.290-258.291">I hear that this is a loyal troop to the lord of the Scyldings.</s>
+            <s n="66" xml:id="beowulf.00066" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.301-258.303">They departed then to journey; the ship waited quietly, the broad-bosomed ship stood moored on a rope, fast at anchor.</s>
+            <s n="67" xml:id="beowulf.00067" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.303-258.305">Boar-images shone over the cheek-guards, adorned with gold, gleaming and fire-hardened; the life-guard held.</s>
+            <s n="68" xml:id="beowulf.00068" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.306">to the battle-spirited man.</s>
+            <s n="69" xml:id="beowulf.00069" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.306-258.311">The men hurried, they advanced together, until they could perceive the timbered hall, splendid and adorned with gold; it was the most famous of buildings under the heavens for the dwellers of the earth, in which the mighty one waited; the light shone over many lands.</s>
+            <s n="70" xml:id="beowulf.00070" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.312-258.318">Then the battle-brave one showed him the bright roof of the brave men, so that they could go straight in to him; one of the warriors turned his horse and spoke a word afterward: 'It is time for me to go; may the Father almighty keep you safe in your journeyings with his graces!'</s>
+            <s n="71" xml:id="beowulf.00071" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:258.318-258.319">I will go to the sea, to keep watch against a hostile troop.'</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="320">
+          <p>
+            <s n="72" xml:id="beowulf.00072" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.320-320.321">The road was adorned with stones, the path guided the men together.</s>
+            <s n="73" xml:id="beowulf.00073" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.321-320.324">The war-byrnie shone, hard and hand-linked, the bright ring-iron sang in the armor, when they first came walking to the hall in their terror-gear.</s>
+            <s n="74" xml:id="beowulf.00074" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.325-320.331">They set their broad shields, round and battle-hardened, against the wall of that building; then they bowed to the bench—mail-coats rang, the war-gear of men; spears stood, the gear of seamen all together, ash-wood gray above; that iron-troop was honored with weapons.</s>
+            <s n="75" xml:id="beowulf.00075" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.331-320.335">Then the proud hero asked those warriors about their lineage: 'From where do you bring the decorated shields, grey mail-coats, and masked helmets, a heap of battle-shafts?'</s>
+            <s n="76" xml:id="beowulf.00076" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.335-320.336">I am Hrothgar's messenger and officer.</s>
+            <s n="77" xml:id="beowulf.00077" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.336-320.337">I have not seen foreigners, so many men, more courageous.</s>
+            <s n="79" xml:id="beowulf.00079" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.340-320.343">Then the one renowned for courage answered him, the proud lord of the Weders spoke a word in reply, bold under his helmet: 'We are Hygelac's table-companions; Beowulf is my name.</s>
+            <s n="80" xml:id="beowulf.00080" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.344-320.347">I wish to declare my errand to the son of Healfdene, the famous prince, to your lord, if he will grant us that we may greet him, so good a man.</s>
+            <s n="81" xml:id="beowulf.00081" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.348-320.355">Wulfgar spoke — he was a man of the Wendels; his courage was made known to many, his warfare and wisdom —: 'I will ask the friend of the Danes, the lord of the Scyldings, the giver of rings, so as you are a petitioner, the famous prince about your journey, and quickly make known the answer to you, whether the good one intends to give it to me.'</s>
+            <s n="82" xml:id="beowulf.00082" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.356-320.359">Then he turned quickly to where Hrothgar, old and very gray, sat with his troop of noble warriors; the brave one in strength went forward, so that he stood before the shoulders of the lord of the Danes; he knew the custom of the retainers.</s>
+            <s n="83" xml:id="beowulf.00083" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:320.360-320.364">Wulfgar spoke to his friendly lord: 'Here have come, having traveled from afar across the expanse of the sea, the people of the Geats; the eldest of these warriors they name Beowulf.'</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="371">
+          <p>
+            <s n="85" xml:id="beowulf.00085" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.371-371.376">Hrothgar spoke, protector of the Scyldings: 'I knew him when he was a young man; his grandfather was called Ecgtheow, to whom Hrethel of the Geats gave his only daughter in marriage; his son has now come here, bold, and has sought a loyal friend.'</s>
+            <s n="86" xml:id="beowulf.00086" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.377-371.381">Then sea-travelers said, those who carried gift-treasures of the Geats thither as a thank-offering, that he, battle-brave, has the strength of thirty men in his hand-grip.</s>
+            <s n="87" xml:id="beowulf.00087" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.381-371.384">Holy God sent him to us, to the West-Danes, out of his grace — of that I have expectation — as a defense against Grendel's terror.</s>
+            <s n="88" xml:id="beowulf.00088" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.384-371.385">I shall offer treasures to the good one for his boldness of spirit.</s>
+            <s n="89" xml:id="beowulf.00089" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.386-371.389">Be quick, command the band of kinsmen to come in and see, all together at once; also tell them in words that they are welcome to the people of the Danes.'</s>
+            <s n="90" xml:id="beowulf.00090" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.389-371.394">Then Wulfgar went to the hall-door and announced his words inside: 'My victorious lord, the prince of the East-Danes, has commanded me to say to you that he knows your noble lineage, and that you, brave-minded, are welcome here to him across the sea-waves.'</s>
+            <s n="91" xml:id="beowulf.00091" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.395-371.398">Now you may go in your war-gear, under the battle-helmet, to see Hrothgar; let your battle-boards, the wooden slaughter-shafts, wait here for the outcome of words.</s>
+            <s n="92" xml:id="beowulf.00092" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.399-371.401">Then the mighty one arose, and around him many a warrior, a glorious troop of thanes; some waited there, held the battle-armor, as the hard one commanded them.</s>
+            <s n="93" xml:id="beowulf.00093" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.402-371.404">They hastened together — the man guided them — under Heorot's roof; the battle-warrior went, hard under helmet, until he stood in the hall.</s>
+            <s n="94" xml:id="beowulf.00094" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.405-371.407">Beowulf spoke -- on him his mail-coat shone, the cunning net sewn by a smith's skill --: 'Hail to you, Hrothgar!</s>
+            <s n="95" xml:id="beowulf.00095" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.407-371.409">I am Hygelac's kinsman and retainer; I have undertaken many glorious deeds in my youth.</s>
+            <s n="96" xml:id="beowulf.00096" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.409-371.414">To me the matter of Grendel became openly known in my native land; seafarers say that this hall, the noble building, stands idle and useless to every warrior, after the evening light becomes hidden under the covering of heaven.</s>
+            <s n="98" xml:id="beowulf.00098" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.426-371.432">I now wish to ask you, prince of the Bright-Danes, protector of the Scyldings, for one favor: that you not refuse me, protector of warriors, lord and friend of peoples, now that I have come thus from afar, that I alone, along with the band of my earls, this hard troop, may cleanse Heorot.</s>
+            <s n="99" xml:id="beowulf.00099" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.433-371.441">I have also heard that this monster, because of his reckless pride, does not care about weapons; then I will disdain that, so that my lord Hygelac may be glad at heart toward me, that I bear a sword or a broad shield, a yellow shield, to battle — but with my grip I must grapple with the foe and fight for life, hateful one against hateful one; there the one whom death takes must trust in the Lord's judgment.</s>
+            <s n="100" xml:id="beowulf.00100" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.442-371.445">I expect that he will, if he is allowed to wield power, in that battle-hall devour the people of the Geats without fear, as he has often done, the mighty joy of men.</s>
+            <s n="101" xml:id="beowulf.00101" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.445-371.451">In no way do you need to hide my head; rather, he will want to have me, stained with blood, if death takes me. He will carry off the bloody corpse, intends to bury it, will eat it alone, without sorrow, will mark the dark moor; nor will you need to mourn longer about the funeral provision of my body.</s>
+            <s n="102" xml:id="beowulf.00102" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.452-371.455">Send to Hygelac, if battle takes me, the best of battle-garments, that which protects my breast, the finest of garments; that is Hrethel's heirloom, Weland's work.</s>
+            <s n="103" xml:id="beowulf.00103" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:371.455">Fate goes ever as it must!</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="456">
+          <p>
+            <s n="104" xml:id="beowulf.00104" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.456-456.458">Hrothgar, protector of the Scyldings, spoke: 'You have sought us out for your deeds and for your acts of honor, my friend Beowulf.'</s>
+            <s n="105" xml:id="beowulf.00105" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.459-456.462">Your father struck the greatest feud-blow; he became a hand-slayer to Heaþolaf among the Wilfings; then the kin of the Weders, because of the terror of the army, could not keep him.</s>
+            <s n="106" xml:id="beowulf.00106" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.463-456.469">From there he sought the people of the South-Danes, of the Ar-Scyldings, over the rolling of the waves; then I first ruled the people of the Danes and in my youth held a spacious kingdom, a treasure-stronghold of heroes; then Heregar was dead, my elder kinsman, lifeless, the son of Healfdene; he was better than I!</s>
+            <s n="107" xml:id="beowulf.00107" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.470-456.472">Afterwards that feud I settled with money; I sent the Wylfings over the water's back old treasures; he swore oaths to me.</s>
+            <s n="109" xml:id="beowulf.00109" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.478-456.479">God can easily put a stop to that foolish ravager's deeds!</s>
+            <s n="110" xml:id="beowulf.00110" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.480-456.483">Very often the warriors, drunk with beer, boasted over the ale-cup that they would await Grendel's attack in the beer-hall with the terror of swords.</s>
+            <s n="111" xml:id="beowulf.00111" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.484-456.488">Then this mead-hall was in the morning-time, the lordly hall blood-stained, when day shone, all the bench-planks were drenched with blood, the hall with sword-blood; I had the less of retainers, dear warriors, whom death had taken away.</s>
+            <s n="112" xml:id="beowulf.00112" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.489-456.490">Sit now at the feast and unlock your thoughts, the glory of victory for men, as your heart may urge.'</s>
+            <s n="113" xml:id="beowulf.00113" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.491-456.494">Then a bench was cleared for the Geatish men together in the beer-hall; there the strong-hearted ones went to sit down, proud in their strength.</s>
+            <s n="114" xml:id="beowulf.00114" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.494-456.496">A thane attended to his duty, one who carried in his hands an adorned ale-cup, and poured the bright, clear drink.</s>
+            <s n="115" xml:id="beowulf.00115" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.496-456.497">The poet sang at times, clear-voiced, in Heorot.</s>
+            <s n="116" xml:id="beowulf.00116" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:456.497-456.498">There was the joy of heroes, no small company of Danes and Weders.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="499">
+          <p>
+            <s n="117" xml:id="beowulf.00117" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.499-499.510">Unferth spoke, the son of Ecglaf, who sat at the feet of the lord of the Scyldings, he unbuckled a battle-rune—to him Beowulf's venture, the brave sea-farer's, was a great resentment, because he did not grant that any other man ever might obtain more glories in the world under the heavens than he himself—: 'Are you the Beowulf, the one who contended with Breca, on the wide sea competed in swimming, where you two for pride tested the waters and for foolish boasting ventured your lives in deep water?'</s>
+            <s n="118" xml:id="beowulf.00118" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.510-499.516">Nor could any man, neither friend nor foe, blame you for that sorrowful journey, when you two rowed on the sea; there you two covered the ocean-stream with your arms, measured the sea-roads, brandished with your hands, glided over the ocean; the sea welled with waves, the surging of winter.</s>
+            <s n="119" xml:id="beowulf.00119" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.516-499.518">You two toiled in the water's domain for seven nights; he outswam you at swimming, he had more strength.</s>
+            <s n="120" xml:id="beowulf.00120" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.518-499.523">Then in the morning-tide the sea bore him up onto the land of the Heatho-Raemas; from there he sought his own dear homeland, beloved by his people, the land of the Brondings, a fair refuge-fortress, where he owned folk, stronghold and rings.</s>
+            <s n="121" xml:id="beowulf.00121" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.523-499.524">Son of Beanstan, truly fulfill all your boast to you.</s>
+            <s n="122" xml:id="beowulf.00122" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.525-499.528">Then I expect worse terms from you, though you were everywhere valiant in battle-rushes, in grim war, if you dare to await Grendel nearby for a night-long span.</s>
+            <s n="123" xml:id="beowulf.00123" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.529-499.532">Beowulf spoke, the son of Ecgtheow: 'Indeed, Unferth my friend, you spoke a great deal about Breca's venture, drunk on beer, concerning his journey!'</s>
+            <s n="124" xml:id="beowulf.00124" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.532-499.534">I reckon it true that I possessed greater sea-strength, hardships in the waves, than any other man.</s>
+            <s n="125" xml:id="beowulf.00125" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.535-499.538">We two said that, being young men, and we both boasted — we were both then still in the time of youth — that we two out on the ocean would risk our lives, and we accomplished that.</s>
+            <s n="126" xml:id="beowulf.00126" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.539-499.541">We had a naked sword, when we two rowed out on the sea, a hard one in our hands; we two thought to defend ourselves against whale-fishes.</s>
+            <s n="127" xml:id="beowulf.00127" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.541-499.543">He could not swim at all far from me in the sea-waves, more swiftly on the ocean; nor would I leave him behind.</s>
+            <s n="128" xml:id="beowulf.00128" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.544-499.548">Then we two were together on the sea for a time of five nights, until the flood drove us apart, the surging waters, the coldest of weathers, the darkening night, and the battle-grim north wind turned against us; the waves were rough.</s>
+            <s n="129" xml:id="beowulf.00129" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.549-499.553">The mind of the sea-fishes was stirred up; there against the hostile one my own body-armor, hard and hand-linked, gave me help, the woven battle-garment, lay on my breast adorned with gold.</s>
+            <s n="130" xml:id="beowulf.00130" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:499.553-499.558">The hostile foe drew me to the bottom, held me fast, grim in its grip; yet it was granted to me that I reached the monster with my point, with my battle-bill; the battle-storm took away the mighty sea-beast through my own hand.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="559">
+          <p>
+            <s n="131" xml:id="beowulf.00131" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.559-559.560">Thus the loathsome foes often sorely oppressed me.</s>
+            <s n="132" xml:id="beowulf.00132" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.560-559.561">I served them with my dear sword, as was fitting.</s>
+            <s n="133" xml:id="beowulf.00133" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.562-559.569">Nor did they have joy of that feasting, the wicked plotters, when they had drunk me, surrounded the banquet near the sea-bottom; but in the morning, wounded with swords, they lay up along the shore, put to sleep by blades, so that never afterwards did the sea-farers on the steep ford hinder the passage.</s>
+            <s n="134" xml:id="beowulf.00134" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.569-559.572">Light came from the east, the bright beacon of God; the seas subsided, so that I could see the sea-cliffs, windy walls.</s>
+            <s n="135" xml:id="beowulf.00135" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.572-559.573">Fate often spares an undoomed earl, when his courage holds!</s>
+            <s n="136" xml:id="beowulf.00136" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.574-559.575">Nevertheless it befell me that I slew nine sea-monsters with my sword.</s>
+            <s n="137" xml:id="beowulf.00137" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.575-559.579">I have never heard of a harder fight under the vault of heaven, nor of a more wretched man in the sea-streams; yet I survived the grasp of foes, weary from the journey, with my life.</s>
+            <s n="138" xml:id="beowulf.00138" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.579-559.581">Then the sea bore me away, the flood along the current onto the land of the Finns, the surging waters.</s>
+            <s n="139" xml:id="beowulf.00139" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.581-559.583">I never heard tell of any such treacherous quarrels from you, of the terror of swords.</s>
+            <s n="142" xml:id="beowulf.00142" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.601-559.603">But I, for him, must now, after former troubles, offer to the Geats strength and courage in battle.</s>
+            <s n="143" xml:id="beowulf.00143" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.603-559.606">He who is able goes again to the mead, spirited, after the morning-light of another day, the sun clothed in radiance, shines from the south over the sons of men!</s>
+            <s n="145" xml:id="beowulf.00145" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.611-559.612">There was laughter of heroes, the din resounded, words were joyful.</s>
+            <s n="146" xml:id="beowulf.00146" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.612-559.619">Wealhtheow, Hrothgar's queen, went forward, mindful of the kindreds; the gold-adorned one greeted the men in the hall, and then the noble woman gave the full cup first to the guardian of the East-Danes' homeland, asked him to be blithe at that beer-drinking, the dear one to the people; he, victorious and famous, joyfully received the feast and the hall-cup.</s>
+            <s n="147" xml:id="beowulf.00147" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.620-559.628">Then the lady of the Helmings went about each of the seasoned warriors and the young, gave out treasure-vessels, until the time came that she, a ring-adorned queen, accomplished in heart, bore the mead-cup to Beowulf; she greeted the prince of the Geats, thanked God wisely in words that her wish had come to pass, that she could trust in any earl for comfort from crimes.</s>
+            <s n="148" xml:id="beowulf.00148" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.628-559.636">He, the slaughter-fierce warrior, accepted that cup at Wealhtheow's side, and then, stirred to battle, he recited a poem; Beowulf, son of Ecgtheow, spoke: 'I had intended, when I climbed onto the sea, sat in the sea-boat with the company of my men, that I would either altogether accomplish the will of your people, or fall in slaughter, fast in the grip of foes.</s>
+            <s n="149" xml:id="beowulf.00149" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.636-559.638">I must perform a noble deed of courage, or await my death-day in this mead-hall!</s>
+            <s n="150" xml:id="beowulf.00150" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.639-559.641">Those words pleased the woman well, the boasting-speech of the Geat; the gold-adorned, gracious queen of the people went to sit by her lord.</s>
+            <s n="151" xml:id="beowulf.00151" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.642-559.651">Then again, as before, a mighty word was spoken inside the hall, the people in joy, the sound of a victorious people, until suddenly the son of Healfdene wished to seek his evening rest; he knew that the monster had been allotted battle in that high hall, after they could see the sun's light, until the darkening night came gliding over all, the shapes of shadow-helmets, dark under the clouds.</s>
+            <s n="152" xml:id="beowulf.00152" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.651">The whole troop arose.</s>
+            <s n="153" xml:id="beowulf.00153" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.652-559.657">Then the man greeted the other, Hrothgar greeted Beowulf, and offered him health, the power of the wine-hall, and spoke these words: 'Never before did I entrust to any man, since I could lift hand and shield, the mighty hall of the Danes, except to you now.'</s>
+            <s n="154" xml:id="beowulf.00154" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:559.658-559.660">Have now and hold the best of houses; remember glory, make known your mighty valor, wake against foes!</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="662">
+          <p>
+            <s n="157" xml:id="beowulf.00157" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.665-662.668">The King of Glory had, as men learned, set a hall-guard against Grendel; he kept special watch around the lord of the Danes, and offered a giant-guard.</s>
+            <s n="158" xml:id="beowulf.00158" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.669-662.670">Indeed, the man of the Geats confidently trusted in his own strength and in the favor of the Measurer.</s>
+            <s n="159" xml:id="beowulf.00159" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.670-662.674">Then he took off his iron mail-coat, his helmet from his head, gave his ornamented sword, the choicest of iron weapons, to the attendant, and commanded the battle-gear to be held.</s>
+            <s n="161" xml:id="beowulf.00161" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.688-662.690">Then the battle-bold one leaned himself, the cheek-pillow received the earl's face, and around him many a brave sea-warrior bowed to the hall-rest.</s>
+            <s n="162" xml:id="beowulf.00162" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.691-662.696">None of them thought that he would ever afterwards seek his native land, the people or the noble stronghold, where he had been brought up; but they had learned that previously in that wine-hall slaughter-death had carried off far too many of the Danish people.</s>
+            <s n="164" xml:id="beowulf.00164" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.700-662.702">It is truly made known that mighty God ruled over the race of mankind, far and wide in his heart.</s>
+            <s n="165" xml:id="beowulf.00165" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.702-662.703">The shadow-walker came gliding in the dark night.</s>
+            <s n="166" xml:id="beowulf.00166" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.703-662.705">The warriors slept, those who were to guard the horned hall, all except one.</s>
+            <s n="167" xml:id="beowulf.00167" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:662.705-662.709">That was known to men, that they could not — when the Measurer did not will it — the wicked ravager drag them under shadow; but he, watching, in ambush, hostilely, waited, angry-minded, for the outcome of battle.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="710">
+          <p>
+            <s n="168" xml:id="beowulf.00168" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.710-710.713">Then Grendel came from the moor, moving under the mists of night; he bore God's wrath. The wicked ravager intended to ensnare one of the race of men in that high hall.</s>
+            <s n="169" xml:id="beowulf.00169" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.714-710.716">He advanced under the clouds until he could most clearly discern the wine-hall, the gold-hall of men, adorned with gold ornaments.</s>
+            <s n="170" xml:id="beowulf.00170" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.716-710.719">That was not the first time that he visited Hrothgar's home; never in his days of life, before or after, did he find harder fortune or hall-thanes!</s>
+            <s n="171" xml:id="beowulf.00171" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.720-710.721">Then the warrior, deprived of joy, came to the hall.</s>
+            <s n="172" xml:id="beowulf.00172" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.721-710.724">The door, fast with fire-forged bands, immediately sprang open when he touched it with his hands; then the wicked-minded one, when he was enraged, swung open the hall's mouth.</s>
+            <s n="173" xml:id="beowulf.00173" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.724-710.727">Quickly after that, the foe trod upon the decorated floor, advanced in angry mood; from his eyes stood out a light most like a flame, an ugly light.</s>
+            <s n="174" xml:id="beowulf.00174" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.728-710.730">He saw in the hall many warriors, a kindred troop sleeping together, a heap of young warriors.</s>
+            <s n="175" xml:id="beowulf.00175" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.730-710.734">Then his heart laughed; the terrible monster intended that he would divide, before day came, the life of each one from his body, when the expectation of a feast had come to him.</s>
+            <s n="176" xml:id="beowulf.00176" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.734-710.736">That was not yet fate, that he might devour more of mankind over that night.</s>
+            <s n="177" xml:id="beowulf.00177" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.736-710.738">Thryth beheld the kinsman of Hygelac, how that wicked ravager would carry out his sudden grips.</s>
+            <s n="178" xml:id="beowulf.00178" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.739-710.743">Nor did that ravager think to delay, but he quickly seized a sleeping warrior on the first occasion, tore him greedily, bit the bone-locks, drank the blood from veins, swallowed him in huge morsels; soon he had.</s>
+            <s n="179" xml:id="beowulf.00179" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.744-710.745">all of the lifeless one devoured, feet and hands.</s>
+            <s n="180" xml:id="beowulf.00180" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.745-710.749">He stepped forward nearer, then seized with his hand the brave-minded warrior in his resting-place, reached toward the foe with his palm; he quickly grasped him with hostile thoughts and sat against his arm.</s>
+            <s n="181" xml:id="beowulf.00181" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.750-710.754">At once the keeper of crimes discovered that he did not meet a greater hand-grip from another man in the middle-earth, the expanse of the earth; in his mind he became afraid in spirit; no sooner could he escape from there.</s>
+            <s n="182" xml:id="beowulf.00182" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.755-710.757">His mind was eager to get away; he wanted to flee into the darkness, to seek the company of devils. His way of life there was not such as he had met before in his days of old.</s>
+            <s n="183" xml:id="beowulf.00183" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.758-710.761">Then the good one, Hygelac's kinsman, remembered the evening-talk; he stood upright and firmly grappled with him; fingers burst; the giant was outward, the earl stepped further.</s>
+            <s n="184" xml:id="beowulf.00184" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.762-710.765">The famous one intended, where he could, to wind more widely and flee away from there into the fen-hollows; he knew the grasp of his fingers in the grip of the fierce one.</s>
+            <s n="185" xml:id="beowulf.00185" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.765-710.766">That was a cruel journey, that the harm-scather drew to Heorot!</s>
+            <s n="186" xml:id="beowulf.00186" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.767-710.769">The hall of warriors resounded; for all the Danes, for the fortress-dwellers, for each of the bold ones, for the earls, there was a pouring-out of ale.</s>
+            <s n="187" xml:id="beowulf.00187" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.769-710.770">Both were angry, the fierce hall-guards.</s>
+            <s n="188" xml:id="beowulf.00188" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.770">The hall resounded.</s>
+            <s n="189" xml:id="beowulf.00189" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.771-710.775">Then it was a great wonder that the wine-hall withstood the battle-bold ones, that it did not fall to the ground, the fair building; but it was firmly within and without smithied with iron bands, with cunning crafts.</s>
+            <s n="190" xml:id="beowulf.00190" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.775-710.777">There from the floor many a mead-bench, adorned with gold, as I have heard, bowed away, where those fierce ones fought.</s>
+            <s n="191" xml:id="beowulf.00191" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.778-710.782">The counselors of the Scyldings had not expected before that any man could ever break it apart by any means, that splendid and bone-adorned hall, undo it by craft, unless the embrace of fire should swallow it in flame.</s>
+            <s n="192" xml:id="beowulf.00192" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.782-710.788">The sound rose up anew, again and again: to the Danes there stood a terrible dread, to each one of those who heard the wailing from the wall, the horror-song of God's adversary singing, a victory-less song, the hell-thrall lamenting his pain.</s>
+            <s n="193" xml:id="beowulf.00193" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:710.788-710.790">He held him fast, he who was the strongest of men in might on that day of this life.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="791">
+          <p>
+            <s n="195" xml:id="beowulf.00195" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.794-791.797">There the earl Beowulf quickly drew his ancient heirloom sword in exchange for the insult; he wished to defend the life of his lord, the famous prince, wherever they could thus.</s>
+            <s n="196" xml:id="beowulf.00196" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.798-791.805">They did not know that, when they endured the struggle, the battle-minded warriors, and thought to hew each of them on every side and seek their souls: no kind of iron over the earth, no war-bill, would touch that sin-stained foe; for he had forsworn victory-weapons, every edge.</s>
+            <s n="197" xml:id="beowulf.00197" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.805-791.808">His parting from life on that day of this life had to become wretched, and the alien spirit had to journey far into the power of fiends.</s>
+            <s n="199" xml:id="beowulf.00199" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.815-791.818">The body-sore endured the terrible monster; on his shoulder a clear, grievous wound became visible, the sinews sprang apart, the bone-locks burst.</s>
+            <s n="200" xml:id="beowulf.00200" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.818-791.823">To Beowulf the war-glory was granted; Grendel had to flee from there, mortally wounded, under the fen-slopes, to seek a joyless dwelling; he knew the more certainly that the end of his life, the day-count of his days, had come.</s>
+            <s n="201" xml:id="beowulf.00201" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.823-791.824">For all the Danes, after that slaughter-rush, the desire had come to pass.</s>
+            <s n="202" xml:id="beowulf.00202" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.825-791.827">Then he who had come from afar, wise and very stout-hearted, had cleansed the hall of Hrothgar, saved it against malice.</s>
+            <s n="203" xml:id="beowulf.00203" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.827-791.828">He rejoiced in the night-work, in his glorious deeds of courage.</s>
+            <s n="204" xml:id="beowulf.00204" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.828-791.833">He had fulfilled his boast for the East-Danes, the prince of the Geatish men; likewise he had made amends for all the grief, the hostile sorrow, that they had suffered before and, because of pressing need, had been forced to endure — no little torment.</s>
+            <s n="205" xml:id="beowulf.00205" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:791.833-791.836">That was a clear sign, after the battle-bold one laid down his hand, arm and shoulder — there all together was Grendle's grasp — under the spacious roof.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="837">
+          <p>
+            <s n="207" xml:id="beowulf.00207" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.841-837.846">His life-departure did not seem sorrowful to any man of those who gazed upon the track of the glory-less one, how he, weary-minded, from there on the way, overcome by hostile onslaughts, doomed and put to flight, bore his life-steps into the mere of the water-monsters.</s>
+            <s n="208" xml:id="beowulf.00208" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.847-837.852">There the sea was welling in blood, a terrible surge of waves all mingled, hot with gore; the death-doomed one swam in blood of battle; then, deprived of joys, he laid down his life in the fen-refuge, a heathen soul; there hell received him.</s>
+            <s n="209" xml:id="beowulf.00209" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.853-837.856">From there the noble companions, and likewise many a young man, turned back again from the joy of the game; from the mere, proud ones, they rode on horses, warriors on white steeds.</s>
+            <s n="210" xml:id="beowulf.00210" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.856-837.861">There Beowulf's fame was proclaimed; many often said that south nor north between the seas, over the vast earth, there was no other under the sky's expanse better among shield-bearers, more worthy of a kingdom.</s>
+            <s n="211" xml:id="beowulf.00211" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.861-837.863">They certainly did not blame their lord and friend, the gracious Hrothgar, in any way; rather, that was a good king.</s>
+            <s n="212" xml:id="beowulf.00212" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.863-837.867">At times they let the battle-strong [steeds] leap, let the fallow horses gallop in rivalry, where the paths of the earth seemed fair to them, known for their virtues.</s>
+            <s n="214" xml:id="beowulf.00214" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.884-837.892">For Sigemund, after his death-day, no little fame sprang up, after the hard warrior killed the dragon, the hoard's guardian; he, under the grey stone, the prince's son, alone dared the perilous deed — Fitela was not with him; nevertheless it befell him that the sword pierced through the wondrous dragon, so that it stood in the wall, the noble iron; the dragon died by the murder-blow.</s>
+            <s n="215" xml:id="beowulf.00215" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.893-837.897">The fierce one had gained glory by his valor, so that he was allowed to enjoy the ring-hoard by his own judgment; he loaded the sea-boat, bore into the ship's bosom bright treasures, the son of Waels; the hot worm melted.</s>
+            <s n="216" xml:id="beowulf.00216" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.898-837.902">He was widely the most famous of exiles throughout the nations of men, a protector of warriors through deeds of courage -- he had earlier repaid that --, after Heremod's battle-strength, power and courage, diminished.</s>
+            <s n="217" xml:id="beowulf.00217" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.902-837.904">He was among the Jutes, delivered forth into the power of enemies, quickly sent away.</s>
+            <s n="218" xml:id="beowulf.00218" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.904-837.913">Sorrow-wells maimed him for too long; he became a source of lifelong grief to his people, to all nobles; likewise many a wise man, stout-hearted, often bemoaned the journey of the former one, who had trusted in him for remedy of evils, that the son of the lord should thrive, receive his father's ancestral lands, hold the people, the treasure and the stronghold, the kingdom of heroes, the homeland of the Scyldings.</s>
+            <s n="219" xml:id="beowulf.00219" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.913-837.915">There he became, to all of them, a kinsman to Hygelac's race of men, more gracious to friends; sin entered into him.</s>
+            <s n="220" xml:id="beowulf.00220" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.916-837.917">At times, racing along, they measured the fallow street with their horses.</s>
+            <s n="221" xml:id="beowulf.00221" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:837.917-837.918">Then the morning-light was driven and hastened away.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="925">
+          <p>
+            <s n="223" xml:id="beowulf.00223" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.925-925.929">Hrothgar spoke — he went to the hall, stood on the floor, saw the steep roof adorned with gold and Grendel's hand —: 'Let thanks to the Almighty quickly come for this sight!'</s>
+            <s n="224" xml:id="beowulf.00224" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.929-925.931">I endured much that was hateful, of hostile snares, at Grendel's hands; God, the Shepherd of glory, can always work wonder after wonder.</s>
+            <s n="225" xml:id="beowulf.00225" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.932-925.939">That was long ago, that I did not expect to live to receive remedy for any of my sorrows through a wide span of life, when the blood-stained best of houses stood battle-grieving, -- a widely-driven woe to every one of the wise who did not expect that they might defend the land-work of the people against hateful demons and monsters with a wide-reaching life.</s>
+            <s n="227" xml:id="beowulf.00227" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.942-925.946">Indeed, even any woman who bore that son among the human race, if she still lives, may say that the Ruler of All was gracious to her in childbearing.</s>
+            <s n="228" xml:id="beowulf.00228" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.946-925.949">Now I, Beowulf, will love you, best of men, as a son in my heart; hold well henceforth our new kinship.</s>
+            <s n="229" xml:id="beowulf.00229" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.949-925.950">There will be no lack of any worldly goods for you, that I have power over.</s>
+            <s n="230" xml:id="beowulf.00230" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.951-925.953">Very often I have granted reward for a lesser price, treasure-honor to a lowlier warrior, a worse one in battle.</s>
+            <s n="231" xml:id="beowulf.00231" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.953-925.955">You yourself have accomplished deeds, so that your fame will live forever and ever.</s>
+            <s n="232" xml:id="beowulf.00232" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.955-925.956">May the Almighty reward you with good things, as He has indeed done even now!</s>
+            <s n="233" xml:id="beowulf.00233" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.957-925.960">Beowulf spoke, the son of Ecgtheow: 'We performed that deed of courage with great favor, we fought, we dared the peril of the unknown monster.'</s>
+            <s n="234" xml:id="beowulf.00234" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.960-925.962">I wish more strongly that you might have seen him himself, the enemy in his trappings, weary of life!</s>
+            <s n="235" xml:id="beowulf.00235" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.963-925.970">I quickly intended to wrap him in hard grips on the slaughter-bed, so that he, because of my hand-grip, would lie struggling for life, unless his body should escape; I could not, since the Measurer did not allow it, keep him from going, nor did I, therefore, eagerly cling to him, the life-enemy; the foe was too overwhelmingly mighty in his advance.</s>
+            <s n="237" xml:id="beowulf.00237" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:925.980-925.990">Then the man, the son of Ecglaf, was more silent in boasting of deeds of war, after the nobles had examined the strength of the earl, the hand over the high roof, the fingers of the enemy; each of the stout nails was most like steel, the heathen's hand-spans, the warrior's terrible, monstrous claws; each said that no hard, ancient-good iron would touch him, that it would carry off the blood-stained battle-palm of that champion.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="991">
+          <p>
+            <s n="238" xml:id="beowulf.00238" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.991-991.994">Then the command was quickly given that Heorot be adorned inside with hands; many of those there were, of men and women, who decorated that wine-hall, the guest-hall.</s>
+            <s n="240" xml:id="beowulf.00240" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.997-991.1002">That bright building was greatly shattered, all its inner part fast in iron bonds, the hinges sprung apart; only the roof survived, entirely whole, when the monster, stained with wicked deeds, turned in flight, despairing of life.</s>
+            <s n="241" xml:id="beowulf.00241" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1002-991.1008">That is not easy to flee from — let him who will accomplish it — but, compelled by necessity, the soul-bearers, children of men, dwellers on the earth, must seek out the ready place where his body, fast in its deathbed, sleeps after the feast.</s>
+            <s n="242" xml:id="beowulf.00242" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1008-991.1010">Then it was the right time and moment that Healfdene's son went to the hall; the king himself wished to partake of the feast.</s>
+            <s n="243" xml:id="beowulf.00243" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1011-991.1012">I have not heard of a greater troop of people behaving better around their treasure-giver.</s>
+            <s n="244" xml:id="beowulf.00244" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1013-991.1017">Then the glory-blessed ones bowed to the bench, rejoiced in the feast, fittingly received many a mead-cup; the kinsmen of those, bold in mind, were in that high hall, Hrothgar and Hrothulf.</s>
+            <s n="245" xml:id="beowulf.00245" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1017-991.1019">Heorot was filled inside with friends; not at all did the people of the Scyldings practice treachery in those days.</s>
+            <s n="246" xml:id="beowulf.00246" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1019-991.1024">Then he gave to Beowulf, the son of Healfdene, a golden banner as reward for victory, an adorned hilted-standard, helmet and mail-coat; many saw the famous treasure-sword borne before the warrior.</s>
+            <s n="247" xml:id="beowulf.00247" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1024-991.1029">Beowulf prospered fully in the hall; he did not need to be ashamed of that treasure-gift before the warriors. I have never heard of four treasures adorned with gold being more lovingly given to many men on an ale-bench.</s>
+            <s n="248" xml:id="beowulf.00248" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1030-991.1034">Around the helmet's crown, a head-guard wound about with wires held watch on the outside, so that the fierce, battle-hard remnant could not injure him, when the shield-warrior had to go against hostile foes.</s>
+            <s n="249" xml:id="beowulf.00249" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1035-991.1042">Then the protector of earls commanded eight horses with bridled heads to be led onto the hall floor, in under the roof-edges; one of them stood adorned with trappings, a saddle decorated with treasures; that was the war-seat of a high king, when the play of swords the son of Healfdene would perform — never in the front did the war of the widely-known one lie idle, when the slain fell.</s>
+            <s n="250" xml:id="beowulf.00250" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:991.1043-991.1045">And then to Beowulf he granted the use of both of each of these, the protector of the Ingwine, horses and weapons; he commanded him to use them well.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="1050">
+          <p>
+            <s n="253" xml:id="beowulf.00253" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1057-1050.1058">The Creator ruled over all of mankind, as he still does now.</s>
+            <s n="254" xml:id="beowulf.00254" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1059-1050.1060">Therefore understanding is everywhere best, forethought of the spirit.</s>
+            <s n="255" xml:id="beowulf.00255" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1060-1050.1062">He who long here in this world of woes enjoys what is dear and what is loathsome must endure much!</s>
+            <s n="256" xml:id="beowulf.00256" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1063-1050.1068">There was song and sound together in unison before Healfdene's war-leader, the joy-wood was greeted, a tale often recited, when Heorot's gleeman, Hrothgar's scop, after the mead-bench had to lament [for] Finn's heirs, when the sudden attack seized them.</s>
+            <s n="257" xml:id="beowulf.00257" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1069-1050.1070">The hero of the Half-Danes, Hnæf of the Scyldings, had to fall in the Frisian slaughter.</s>
+            <s n="258" xml:id="beowulf.00258" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1071-1050.1075">Nor indeed did Hildeburh have reason to praise the good faith of the Jutes; guiltless, she was deprived of her dear ones at that shield-play, of sons and brothers; they fell by fate, wounded by the spear; that was a mournful lady!</s>
+            <s n="259" xml:id="beowulf.00259" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1076-1050.1080">By no means did Hoce's daughter, in hiding, lament the decree of fate, after morning came, when she could see under the sky the murderous calamity of her kinsmen, where she had before held the greatest joy of the world.</s>
+            <s n="261" xml:id="beowulf.00261" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1095-1050.1096">Then they trusted in a firm peace-treaty on both sides.</s>
+            <s n="262" xml:id="beowulf.00262" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1096-1050.1106">Fin then declared to Hengest with valor and without dispute, by oaths, that he would hold the remnant of the survivors with the judgment of counselors and with honors, that there no man should break the agreement by words or deeds, nor ever mention it through treacherous cunning, though they, deprived of their lord, followed the slayer of their ring-giver, since it was so forced upon them; if then any one of the Frisians should be so bold as to bring up that murderous feud by reckless speech, then the sword's edge should settle it.</s>
+            <s n="263" xml:id="beowulf.00263" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1106-1050.1108">The pyre was made ready, and I saw gold carried up from the hoard.</s>
+            <s n="264" xml:id="beowulf.00264" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1108-1050.1109">The best of the battle-warriors of the Here-Scyldings was ready on the pyre.</s>
+            <s n="265" xml:id="beowulf.00265" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1110-1050.1113">At that pyre it was easy to see the blood-stained mail-shirt, the all-gilded boar, the iron-hard boar, many a noble wasted by wounds; some fell in the slaughter!</s>
+            <s n="266" xml:id="beowulf.00266" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1114-1050.1117">Then Hildeburh commanded that her own son be committed to the fire at Hnæf's pyre, his bone-vessel be burned, and that he be placed on the bale, the uncle at the shoulder of his nephew.</s>
+            <s n="267" xml:id="beowulf.00267" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1117-1050.1118">The lady mourned, lamented with songs.</s>
+            <s n="268" xml:id="beowulf.00268" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1118">The warrior rose up.</s>
+            <s n="269" xml:id="beowulf.00269" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1119-1050.1122">The greatest of funeral-fires wound up to the clouds, it roared before the mound; heads melted, wound-gates burst open, when blood sprang out, the hateful bite of the body.</s>
+            <s n="270" xml:id="beowulf.00270" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1050.1122-1050.1124">Fire swallowed them all, the greediest of spirits, those whom war had taken there from both peoples; their glory was gone.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="1125">
+          <p>
+            <s n="271" xml:id="beowulf.00271" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1125-1125.1127">Then the warriors departed to seek their dwellings, deprived of friends, to see Frisia, homes and high stronghold.</s>
+            <s n="272" xml:id="beowulf.00272" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1127-1125.1136">Hengest still dwelt with Finn through the slaughter-stained winter, [all] without blame; he remembered his homeland, though he could drive the ring-prowed ship on the sea—the ocean surged with storm, contended against the wind, winter locked the waves in ice-bonds, until another year came into the courts—as even now it does, those that ever watch over the seasons, gloriously bright weather.</s>
+            <s n="273" xml:id="beowulf.00273" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1136-1125.1141">Then winter had passed away, the fair bosom of the earth; the exile, the guest, hastened away from the courts; he thought more of vengeance for his grief than of a sea-voyage, if he could bring about a hostile meeting, so that he might remember the sons of the Jutes within.</s>
+            <s n="274" xml:id="beowulf.00274" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1142-1125.1145">Thus he did not refuse the world-honor when Hunlafing's son, the best of swords, placed the battle-light in his bosom; among the Jutes the edges of that blade were known.</s>
+            <s n="276" xml:id="beowulf.00276" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1151-1125.1153">Then the hall was reddened with the blood of enemies, just as Fin was slain, the king among his troop, and the queen was taken.</s>
+            <s n="277" xml:id="beowulf.00277" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1154-1125.1157">The warriors of the Scyldings carried to the ships all the treasure of the earth-king, such as they could find at Finn's home, of jewels and precious gems.</s>
+            <s n="278" xml:id="beowulf.00278" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1157-1125.1159">They ferried the noble women on a sea-journey to the Danes, led them to the people.</s>
+            <s n="279" xml:id="beowulf.00279" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1159-1125.1160">A song was sung, the gleeman's lay.</s>
+            <s n="280" xml:id="beowulf.00280" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1160-1125.1162">Joy rose again, the bench-sound brightened, cup-bearers served wine from wondrous vessels.</s>
+            <s n="281" xml:id="beowulf.00281" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1162-1125.1165">Then Wealhtheow came forth to walk under a golden crown, where the two good ones, uncle and nephew, sat; still their kinship was together, each true to the other.</s>
+            <s n="282" xml:id="beowulf.00282" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1165-1125.1168">Likewise Unferth the spokesman sat there at the feet of the lord of the Scyldings; each of them trusted his spirit, that he had great courage, though he was not honorable to his kinsmen in the sport of swords.</s>
+            <s n="283" xml:id="beowulf.00283" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1168-1125.1170">Then the lady of the Scyldings spoke: 'Receive this cup, my noble lord, dispenser of treasure!</s>
+            <s n="284" xml:id="beowulf.00284" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1170-1125.1172">Be in prosperity, gold-friend of men, and speak to the Geats with gentle words, as a man should do!</s>
+            <s n="285" xml:id="beowulf.00285" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1173-1125.1174">Be gracious toward the Geats, mindful of gifts, near and far, as you now have.</s>
+            <s n="286" xml:id="beowulf.00286" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1175-1125.1176">To me it was said that you would have the warrior as a son for yourself.</s>
+            <s n="287" xml:id="beowulf.00287" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1176-1125.1180">Heorot is cleansed, the bright ring-hall; enjoy while you may the rewards of many, and leave to your kinsmen the people and the kingdom, when you must go forth to meet the decree of fate.</s>
+            <s n="289" xml:id="beowulf.00289" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1125.1188-1125.1191">Then she turned along the bench, where her boys were, Hrethric and Hrothmund, and the sons of heroes, the young men together; there the good one sat, Beowulf of the Geats, between the two brothers.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="1192">
+          <p>
+            <s n="290" xml:id="beowulf.00290" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1192-1192.1196">To him was brought a cup, and friendship was offered in words, and wound gold was shown with favor, two arm-ornaments, a garment and rings, the greatest of neck-rings of those that I have heard of on earth.</s>
+            <s n="291" xml:id="beowulf.00291" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1197-1192.1201">I have heard of no better hoard-treasure of heroes under the sky, since Hama carried off to the bright city the necklace of the Brosings, the jewel and the treasure-vessel — he fled the treacherous feuds of Eormenric, chose eternal counsel.</s>
+            <s n="292" xml:id="beowulf.00292" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1201-1192.1207">That ring Hygelac, king of the Geats, grandson of Swerting, had on his last journey, after he defended treasure under the banner and protected spoil of slaughter; fate carried him off, after he, out of pride, sought out woe, a feud with the Frisians.</s>
+            <s n="293" xml:id="beowulf.00293" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1207-1192.1209">He then bore the treasures, precious stones, over the cup of the waves, the mighty prince; he sank beneath the shield.</s>
+            <s n="294" xml:id="beowulf.00294" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1210-1192.1214">The king's life then turned into the embrace of the Franks, his breast-garments, and the ring together; lesser warriors plundered the slain after the battle-spoil; the people of the Geats held the corpse-dwelling.</s>
+            <s n="295" xml:id="beowulf.00295" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1214">The hall received the sound.</s>
+            <s n="296" xml:id="beowulf.00296" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1215-1192.1220">Wealhtheow spoke, she spoke before that company: 'Enjoy this ring, dear Beowulf, young man, with good fortune, and make use of this garment, the treasure of retainers, and prosper well, strengthen yourself with might, and be gentle in counsel to these boys!'</s>
+            <s n="297" xml:id="beowulf.00297" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1220">I will repay you for that.</s>
+            <s n="298" xml:id="beowulf.00298" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1221-1192.1224">You have brought it about that men far and near, across the whole wide world, pursue you — even as widely as the sea, the wind-yard, surrounds the walls.</s>
+            <s n="299" xml:id="beowulf.00299" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1224-1192.1225">Be blessed as long as you live, prince!</s>
+            <s n="300" xml:id="beowulf.00300" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1225-1192.1226">I grant you well a treasure of riches.</s>
+            <s n="301" xml:id="beowulf.00301" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1226-1192.1227">Be gracious in deeds to my son, O joy-holder!</s>
+            <s n="303" xml:id="beowulf.00303" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1232">Then he went to his seat.</s>
+            <s n="304" xml:id="beowulf.00304" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1232-1192.1233">There was the choicest of feasts; the men drank wine.</s>
+            <s n="305" xml:id="beowulf.00305" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1233-1192.1236">They did not know fate, grim destiny, as it had come to pass for many men, after evening came and Hrothgar had departed from them.</s>
+            <s n="306" xml:id="beowulf.00306" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1236-1192.1237">to his own hall, the mighty one to his rest.</s>
+            <s n="307" xml:id="beowulf.00307" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1237-1192.1238">The hall was inhabited by a countless number of warriors, as they had often done before.</s>
+            <s n="308" xml:id="beowulf.00308" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1239-1192.1240">They carried in the bench-planks; it was spread all over with beds and bolsters.</s>
+            <s n="309" xml:id="beowulf.00309" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1240-1192.1241">One of the beer-hall warriors, eager and fated to die, bowed down to the bed-rest.</s>
+            <s n="310" xml:id="beowulf.00310" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1192.1242-1192.1246">They set at their heads battle-shields, bright board-wood; there on the bench, above the prince, was seen a helmet towering in battle, a ringed mail-coat, a glorious war-wood.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="1251">
+          <p>
+            <s n="312" xml:id="beowulf.00312" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1251">Then they sank to sleep.</s>
+            <s n="313" xml:id="beowulf.00313" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1251-1251.1255">One paid sorely for his evening-rest, as it very often happened to them, after Grendel occupied the gold-hall, did unrighteousness, until the end came, death after sins.</s>
+            <s n="314" xml:id="beowulf.00314" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1255-1251.1265">That became evident, widely known to men, that an avenger still lived after the hostile one, for a long time, after the war-sorrow; Grendel's mother, a lady, a monstrous woman, remembered the misery, she who had to dwell in the water-terror, the cold streams, after Cain became the sword-slayer of his only brother, his father's kinsman; he then departed guilty, marked by murder, to flee mankind's joy, he inhabited the wasteland.</s>
+            <s n="315" xml:id="beowulf.00315" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1265-1251.1274">From him sprang many monstrous spirits; one of them was Grendel, a hateful, hostile outcast, who at Heorot found a watchful man waiting for battle; there the monster came to grips with him; yet he remembered the strength of his might, the precious gift that God had given him, and he trusted in the Lord for mercy, comfort, and help; therefore he overcame the foe, humbled the spirit of hell.</s>
+            <s n="316" xml:id="beowulf.00316" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1274-1251.1276">Then he, wretched and deprived of joy, departed to seek the death-dwelling, the enemy of mankind.</s>
+            <s n="317" xml:id="beowulf.00317" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1276-1251.1278">And his mother then, still greedy and fierce-minded, wished to undertake a sorrowful journey, to avenge her son's death.</s>
+            <s n="318" xml:id="beowulf.00318" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1279-1251.1280">Then she came to Heorot, where the Hring-Danes slept throughout that hall.</s>
+            <s n="319" xml:id="beowulf.00319" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1280-1251.1282">Then there at once a reversal came upon the warriors, after the mother of Grendel broke in indoors.</s>
+            <s n="320" xml:id="beowulf.00320" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1282-1251.1287">The terror was just so much less, as is a woman's strength, a woman's war-terror, compared with a weaponed man, when a bound, hammer-forged sword, stained with blood, strong in edges, cuts through the opposing helmet.</s>
+            <s n="321" xml:id="beowulf.00321" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1288-1251.1291">Then in the hall a hard-edged sword was drawn over the seats, many a broad-bladed one seized firm in hand; he did not remember the helmet, the broad byrnie, when the terror seized him.</s>
+            <s n="324" xml:id="beowulf.00324" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1299-1251.1301">Beowulf was not there, but another had earlier been assigned to the famous Geat as a treasure-gift.</s>
+            <s n="325" xml:id="beowulf.00325" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1302-1251.1304">A clamor arose in Heorot; she seized a known hand under the blood; sorrow was renewed, made manifest among the dwellings.</s>
+            <s n="326" xml:id="beowulf.00326" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1304-1251.1306">That exchange was not good, that they on both sides had to buy with the lives of friends!</s>
+            <s n="327" xml:id="beowulf.00327" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1306-1251.1309">Then the wise king, the grey-haired warrior, was in a sorrowful mood, after he knew that his chief thane, the dearest one, was lifeless, dead.</s>
+            <s n="328" xml:id="beowulf.00328" corresp="urn:cts:angLit:anon.beowulf.perseus-ang1:1251.1310-1251.1311">Quickly Beowulf, the victory-blessed man, was fetched to the chamber.</s>
+          </p>
+        </div>
+        <div type="textpart" subtype="card" n="1321">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="1383">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="1473">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="1557">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="1651">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="1740">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="1817">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="1888">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="1963">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2039">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2145">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2222">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2312">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2391">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2460">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2602">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2693">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2752">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2821">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2892">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="2946">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="3058">
+          <p />
+        </div>
+        <div type="textpart" subtype="card" n="3137">
+          <p />
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
